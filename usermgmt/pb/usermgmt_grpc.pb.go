@@ -4,7 +4,7 @@
 // - protoc             v3.12.4
 // source: pm/usermgmt.proto
 
-package pm
+package pb
 
 import (
 	context "context"
